@@ -1,0 +1,1 @@
+enter a 6 digit number or lower (int / 32 bit)
